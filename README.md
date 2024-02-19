@@ -9,7 +9,7 @@ This is 'not` a programming remote repository
 | :-----: | :-----: | :-----: | :-----: | 
 # How could we study?
 
-1. Every single wednesday all members have to meet in 'webex'
-2. Before meeting , Everyone have to summarize chapter and have to pull-request to main-branch
-2-1. Study master would make each directory ( e.g. Operating System , Network , Database ... )
-2-2. Study member have to summarize theri own review and pull request their 'markdown' file to directory
+1. Every single wednesday all members have to meet in 'webex'  
+2. Before meeting , Everyone have to summarize chapter and have to pull-request to main-branch  
+2-1. Study master would make each directory ( e.g. Operating System , Network , Database ... )  
+2-2. Study member have to summarize theri own review and pull request their 'markdown' file to directory  
